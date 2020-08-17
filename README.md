@@ -41,4 +41,4 @@ The Boston house prices dataset contains 13 numeric/categorical predictive attri
  
 The original dataset was created by Harrison, D. and Rubinfeld, D.L., and was taken from the StatLib library, which is maintained at Carnegie Mellon University. 
  
-Given the sources disclosed when using the describe method, it can be assumed that this data originates from Boston housing-price data from 1978-1980. We will be using this Boston housing-price data for our machine learning project and will try and dive into linear regression problems.  
+Given the sources disclosed when using the describe method, it can be assumed that this data was gathered from Boston housing-price data collected within the years of 1978-1992. 
