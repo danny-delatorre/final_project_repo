@@ -7,7 +7,7 @@ We will be using Python Pandas, and Python Mathplotlib, in addtion to other tech
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The data Boston house prices dataset contains 13 numeric/categorical predictive attributes, including:
+The Boston house prices dataset contains 13 numeric/categorical predictive attributes, including:
 
  - CRIM: per capita crime rate by town [renamed to Crime]
 
