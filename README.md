@@ -1,11 +1,11 @@
 # FINAL PROJECT README 
 
-Project Report - Final Project
+Project Report - Final Project on Boston Housing Market 
  
 When brainstorming where our group wanted to source datasets for our project, we looked at the Scikit-learn website for Machine Learning in Python. 
-After converting with peers, we elected to go with the sklearn.datasets.load_boston as our dataset of choice. The data Boston house prices dataset contains 13 numeric/categorical predictive attributes. 
- 
-Including:
+After converting with peers, we elected to go with the sklearn.datasets.load_boston as our dataset of choice. 
+
+The data Boston house prices dataset contains 13 numeric/categorical predictive attributes, including:
 
 CRIM - per capita crime rate by town
 
