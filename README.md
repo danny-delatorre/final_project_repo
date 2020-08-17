@@ -1,7 +1,7 @@
 # FINAL PROJECT: BOSTON HOUSING MACHINE LEARNING
 
  
-When looking into sourcing our dataset for our final project, we took a deep dive into the Scikit-Learn libraries for Machine Learning in Python. After discussing and considering how we wanted to proceed as a group, we elected to go with the sklearn.datasets.load_boston as our dataset of choice. We see this as a dataset worth exploringm analyzing, and visualizing. 
+When looking into sourcing our dataset for our final project, we took a deep dive into the Scikit-Learn libraries for Machine Learning in Python. After discussing and considering how we wanted to proceed as a group, we elected to go with 'sklearn.datasets.load_boston' as our dataset of choice. We see this as a dataset worth exploringm analyzing, and visualizing. 
 
 We will be using Python Pandas, and Python Mathplotlib, in addtion to other technologies we have learned within our notebook to further analyze this dataset. 
 
